@@ -1,5 +1,5 @@
 <div align="center"><h2 align="center">
-   MoviesBox :Collection of Watched Movies
+   MovieBox :Collection of Watched Movies
 </h2>
 <p align="center">
   
