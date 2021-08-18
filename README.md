@@ -9,6 +9,11 @@
   </div>
 
 ## :eyes:Overview
+Watched movies                 | Add movie               |
+:-------------------------:|:-------------------------:|
+<img src="images/1.1.jpeg" width="400"/> | <img src="images/1.2.jpeg" width="400"/> 
+    
+## :clapper:Preview
 ![gif](images/MovieBox.gif)
 
 
@@ -18,12 +23,5 @@
     - flutter run->
     - Run the app (Simulator/ Real Device )
     
-   `Flutter` `Dart`
+   
 
-
-    
-## :clapper:Preview
-
-App Intro                 | Sign up               |
-:-------------------------:|:-------------------------:|
-<img src="images/1.1.jpeg" width="400"/> | <img src="images/1.2.jpeg" width="400"/> 
