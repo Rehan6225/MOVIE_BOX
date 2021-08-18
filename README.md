@@ -1,12 +1,21 @@
-<div align="center"><h2 align="center">
-   MovieBox :Collection of Watched Movies
-</h2>
+<div align="center">
+   <div><h2 align="center">
+      MovieBox
+   </h2>
+   <p>Collection of Watched Movies</p>
+   </div>
 <p align="center">
   
   `Dart` `Flutter` `Sqflite`
   
 </p>
   </div>
+  
+## :computer:Task
+- [X] Build a simple aesthetic app to add/edit/delete/list movies that a user has watched.
+- [X] Show an infinite scrollable listview containing all the movies that a user has created.
+- [X] Implement a form to add a new movie or edit an existing one. (Fields kept: Name, Director of the movie)
+- [X] Store the data in either hive or sqflite local database.
 
 ## :eyes:Overview
 Watched movies                 | Add movie               |
