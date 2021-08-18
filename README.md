@@ -1,16 +1,27 @@
-# movie_box
+<div align="center"><h2 align="center">
+   MoviesBox :Collection of Watched Movies
+</h2>
+<p align="center">
+  
+  `Dart` `Flutter` `Sqflite`
+  
+</p>
+  </div>
 
-A new Flutter project.
+## :eyes:Overview
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## How to run
+    
+    - flutter packages get (Build the app)
+    - flutter run->
+    - Run the app (Simulator/ Real Device )
+    
+   `Flutter` `Dart`
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+    
+## ScreenShots
+App Intro                 | Sign up               |
+:-------------------------:|:-------------------------:|
+<img src="2.jpeg"/> | <img src="1.jpeg"> 
