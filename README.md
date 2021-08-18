@@ -11,6 +11,7 @@
 ## :eyes:Overview
 ![gif](images/MovieBox.gif)
 
+
 ## How to run
     
     - flutter packages get (Build the app)
@@ -21,7 +22,8 @@
 
 
     
-## ScreenShots
+## :clapper:Preview
+
 App Intro                 | Sign up               |
 :-------------------------:|:-------------------------:|
-<img src="images/1.jpeg"/> | <img src="images/2.jpeg"> 
+<img src="images/1.1.jpeg" width="400"/> | <img src="images/1.2.jpeg" width="400"/> 
