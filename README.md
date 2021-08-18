@@ -9,7 +9,7 @@
   </div>
 
 ## :eyes:Overview
-
+![gif](images/MovieBox.gif)
 
 ## How to run
     
@@ -24,4 +24,4 @@
 ## ScreenShots
 App Intro                 | Sign up               |
 :-------------------------:|:-------------------------:|
-<img src="2.jpeg"/> | <img src="1.jpeg"> 
+<img src="images/1.jpeg"/> | <img src="images/2.jpeg"> 
